@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+dados/__pycache__/
+dados/migrations/
+ww2_final.csv
